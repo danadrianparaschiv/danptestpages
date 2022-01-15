@@ -3,7 +3,8 @@ layout: default
 ---
 
 
->>>>>>>>>>>>from readme.md<<<<<<<<<<<<<<<<
+
+from readme.md   <<<<<<<<<<<<<<<<
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
